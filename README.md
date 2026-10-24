@@ -209,7 +209,7 @@ Contributions, issues, and feature requests are welcome!
 
 ## 📄 License
 
-This project is open source. Add your preferred license (e.g., MIT) here.
+This project is open source.
 
 ---
 
